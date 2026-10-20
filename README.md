@@ -1,5 +1,7 @@
 # ScreenInkPen
 
+**🌐 Website:** [turhe123.github.io/screen-ink-pen](https://turhe123.github.io/screen-ink-pen/)
+
 Draw arrows, boxes and freehand ink right on top of your screen during demos and calls, then wipe it clean.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -39,7 +41,21 @@ The toolbar's ✕ button exits drawing mode but keeps the ink on screen.
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-ink-overlay.png" alt="Rectangle, arrow, freehand circle and highlighter ink drawn on the screen overlay" width="720"></p>
+
+<p align="center"><em>Live annotations drawn on screen with ScreenInkPen: a red rectangle, a blue arrow, a green freehand circle and a yellow highlighter stroke.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-toolbar.png" alt="ScreenInkPen floating drawing toolbar" width="560"></p>
+
+<p align="center"><em>The floating toolbar with seven drawing tools, five preset colors, a stroke width selector, undo, clear and stop.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-menu.png" alt="ScreenInkPen menu bar menu" width="560"></p>
+
+<p align="center"><em>The menu bar menu for starting drawing with ⌃⌥P and picking a tool, color and width.</em></p>
+
+<p align="center"><img src="docs/screenshots/04-settings.png" alt="ScreenInkPen Settings window" width="560"></p>
+
+<p align="center"><em>Settings for the global hotkey, default color and width, automatic fade-out and launch at login.</em></p>
 
 ## Install
 

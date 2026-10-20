@@ -1,0 +1,6 @@
+[
+  {"file":"01-ink-overlay.png","caption":"Live annotations drawn on screen with ScreenInkPen: a red rectangle, a blue arrow, a green freehand circle and a yellow highlighter stroke.","alt":"Rectangle, arrow, freehand circle and highlighter ink drawn on the screen overlay"},
+  {"file":"02-toolbar.png","caption":"The floating toolbar with seven drawing tools, five preset colors, a stroke width selector, undo, clear and stop.","alt":"ScreenInkPen floating drawing toolbar"},
+  {"file":"03-menu.png","caption":"The menu bar menu for starting drawing with ⌃⌥P and picking a tool, color and width.","alt":"ScreenInkPen menu bar menu"},
+  {"file":"04-settings.png","caption":"Settings for the global hotkey, default color and width, automatic fade-out and launch at login.","alt":"ScreenInkPen Settings window"}
+]

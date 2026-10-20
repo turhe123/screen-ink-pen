@@ -1,0 +1,60 @@
+{
+  "seo_title": "Draw on your screen for macOS",
+  "seo_description": "ScreenInkPen is a free, open-source macOS menu bar app. Press a hotkey to draw arrows, boxes and freehand ink over any screen, then clear it instantly.",
+  "hero_title_line1": "Draw on your screen.",
+  "hero_title_accent": "Then make it vanish.",
+  "hero_sub": "ScreenInkPen puts a transparent ink layer over every display so you can point, circle and annotate during demos and calls. Press Control-Option-P to start drawing.",
+  "features_title": "Everything you need to point.",
+  "features_sub": "A small menu bar app with the tools presenters actually use, and nothing that gets in the way.",
+  "features": [
+    {
+      "icon": "keyboard",
+      "title": "Global hotkey, rebindable",
+      "desc": "Toggle drawing mode from any app with Control-Option-P by default. Record a different shortcut in Settings with a single click."
+    },
+    {
+      "icon": "cursor",
+      "title": "Seven drawing tools",
+      "desc": "Pen, highlighter, line, arrow, rectangle, ellipse and eraser, each one key away. The highlighter blends with multiply so text underneath stays readable."
+    },
+    {
+      "icon": "display",
+      "title": "Works on every display",
+      "desc": "A transparent overlay covers each screen, across Spaces and over full-screen apps. Overlays are rebuilt when you plug in or remove a monitor."
+    },
+    {
+      "icon": "clock",
+      "title": "Optional fade-out",
+      "desc": "Let strokes disappear on their own after a number of seconds you choose. With Reduce Motion on, they vanish without animating."
+    },
+    {
+      "icon": "sliders",
+      "title": "Toolbar that stays out of focus",
+      "desc": "A floating toolbar offers tools, five colors, three widths, undo, clear and stop. It never steals focus from the app you are presenting."
+    },
+    {
+      "icon": "bolt",
+      "title": "Undo, redo, clear in one key",
+      "desc": "Step back up to 200 strokes with Command-Z, redo with Shift-Command-Z, wipe everything with Delete, or press Esc to clear and exit."
+    }
+  ],
+  "permissions_step": "No special permissions are required; the hotkey and overlay work without Accessibility or Screen Recording access.",
+  "faq": [
+    {
+      "q": "Is ScreenInkPen really free and open source?",
+      "a": "Yes. It is released under the MIT license, and the full source is on GitHub. There is no paywall, and optional donations are accepted through Ko-fi."
+    },
+    {
+      "q": "What permissions does it need?",
+      "a": "None. The global hotkey uses Carbon's RegisterEventHotKey, so Accessibility is not required, and the app only draws its own windows, so Screen Recording is not required either. If you enable Launch at login, macOS may list it under Login Items."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "Only on your Mac. Your preferences, such as the hotkey, default color and width, and fade settings, are kept locally in UserDefaults. The app makes no network calls and includes no analytics."
+    },
+    {
+      "q": "Why isn't the app notarized?",
+      "a": "Notarization requires a paid Apple Developer account, and this is a free project. The first time you open it, right-click the app and choose Open, or build it yourself from source with Xcode."
+    }
+  ]
+}
